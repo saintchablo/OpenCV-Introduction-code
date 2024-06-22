@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1718386538 source:c:\users\kingdom chablo\onedrive\report 3 work\opencv_intro_task\test123\main.cpp
+	<opencv2/opencv.hpp>
+	<stdio.h>
+	<stdlib.h>
+	"opencv2/core.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/types_c.h"
+	"opencv2/imgproc/detail/distortion_model.hpp"
+	"opencv2/imgproc/hal/hal.hpp"
+	"opencv2/imgproc/hal/interface.h"
+
+1718558092 source:c:\users\kingdom chablo\onedrive\report 3 work\opencv_intro_task\intro task colour detection\main.cpp
+	<opencv2/opencv.hpp>
+	<stdio.h>
+	<stdlib.h>
+	"opencv2/core.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/highgui/highgui_c.h"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgproc/types_c.h"
+	"opencv2/imgproc/detail/distortion_model.hpp"
+	"opencv2/imgproc/hal/hal.hpp"
+	"opencv2/imgproc/hal/interface.h"
+
